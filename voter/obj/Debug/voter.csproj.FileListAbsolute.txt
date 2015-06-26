@@ -1,0 +1,26 @@
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\bin\Debug\voter.exe.config
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\bin\Debug\voter.exe
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\bin\Debug\voter.pdb
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.csprojResolveAssemblyReference.cache
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\MainWindow.baml
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\MainWindow.g.cs
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\App.g.cs
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter_MarkupCompile.cache
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.g.resources
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.Properties.Resources.resources
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.csproj.GenerateResource.Cache
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.exe
+c:\users\f132819\documents\visual studio 2013\Projects\voter\voter\obj\Debug\voter.pdb
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\MainWindow.baml
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\MainWindow.g.cs
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\App.g.cs
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter_MarkupCompile.cache
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.g.resources
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.Properties.Resources.resources
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.csproj.GenerateResource.Cache
+C:\Users\94763_000\Desktop\voter\voter\voter\bin\Debug\voter.exe.config
+C:\Users\94763_000\Desktop\voter\voter\voter\bin\Debug\voter.exe
+C:\Users\94763_000\Desktop\voter\voter\voter\bin\Debug\voter.pdb
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.exe
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.pdb
+C:\Users\94763_000\Desktop\voter\voter\voter\obj\Debug\voter.csprojResolveAssemblyReference.cache
